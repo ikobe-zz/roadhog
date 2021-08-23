@@ -5,6 +5,10 @@
   "bin": {
     "roadhog": "./bin/roadhog.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ikobe-zz/roadhog.git"
+  },
   "keywords": [
     "roadhog",
     "react",
